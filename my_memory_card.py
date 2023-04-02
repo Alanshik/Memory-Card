@@ -140,4 +140,4 @@ btn_OK.clicked.connect(check_answer)
  
 window.show()
 app.exec()
-
+#закрытие и отображение оконого приложения
